@@ -8,6 +8,10 @@
 
 > This is a blockquote example of writing multiple lines in a single paragraph.
 
+> This is a blockquote example of writing\nmultiple lines in a single paragraph.
+
+> This is a blockquote example of writing
+multiple lines in a single paragraph.
 > This is a blockquote example of writing
 multiple lines in a single paragraph.
 
