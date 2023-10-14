@@ -6,6 +6,12 @@
 > Line 3
 > The Line 4
 
+> This is a blockquote example of writing multiple lines in a single paragraph.
+
+> This is a blockquote example of writing
+multiple lines in a single paragraph.
+
+
 > The Line 5
     ergrogn56
 
